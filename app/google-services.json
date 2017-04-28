@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48522867023",
+    "firebase_url": "https://hobilandgy-d6e6b.firebaseio.com",
+    "project_id": "hobilandgy-d6e6b",
+    "storage_bucket": "hobilandgy-d6e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48522867023:android:57092927c79cdce3",
+        "android_client_info": {
+          "package_name": "tr.firefighters.hobilandgelecegiyazanlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48522867023-859d67fdsv3s49q2094up469p9cg3mis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tr.firefighters.hobilandgelecegiyazanlar",
+            "certificate_hash": "70719314584d5f02d44c32ff58e721c1472e1bcb"
+          }
+        },
+        {
+          "client_id": "48522867023-rlrjd4ig0bkegq29ejseld077om0ng8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2B2RmE0t8FPUWPHXaE9Wv_3JDUpLETk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48522867023-rlrjd4ig0bkegq29ejseld077om0ng8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
